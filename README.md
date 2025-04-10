@@ -30,7 +30,7 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
 
 ---
 
-### 💼 Technical Skills (What I’m solid with)
+### 💼 Technical Skills 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
@@ -46,18 +46,15 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"/>
 </div>
 
 ---
 
-### 🌱 Currently Learning / Enthusiastic About
+### 🌱 Enthusiastically Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo"/>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" height="40" alt="ethereum logo"/>
-  <img src="https://www.example.com/web-design-animation-icon.png" height="40" alt="web design animation logo" />
 </div>
 
 ---
@@ -81,5 +78,5 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
 ---
 
 <p align="center">
-  ✨ Made with love, script, and a little bit of pink ✨
+  ✨ Designed with love, script, and a little bit of pink ✨
 </p>
