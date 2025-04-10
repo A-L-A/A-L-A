@@ -1,3 +1,5 @@
+<br<
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey..+It's+Lyse%F0%9F%91%8B;I'm+a+Web+Dev" alt="Typing SVG"/>
 </div>
@@ -57,16 +59,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"/>
 </div>
+<br>
+<br>
 
 ---
 
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🌱 Enthusiastically Exploring</h2>
-<br><br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo"/>
 </div>
+<br>
+<br>
 
 ---
 
@@ -81,6 +85,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=A-L-A&theme=rose_pine" alt="GitHub Streak"/>
 </div>
+<br>
+<br>
 
 ---
 
@@ -99,7 +105,8 @@
   <div style="background-color: #303030; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <a href="https://www.chess.com/member/lyse-a" style="color: white; font-size: 16px; text-decoration: none;">Chess</a>
   </div>
-
+<br>
+<br>
 </div>
 
 ---
