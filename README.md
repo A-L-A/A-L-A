@@ -32,6 +32,11 @@
       <li>**Kinyarwanda 🇷🇼**</li>
     </ul>
   </div>
+
+   <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
+      (these *don’t* talk back, but they *sure* throw errors!).
+    </p>
+
 </div>
 
 ---
@@ -41,10 +46,7 @@
 
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🧰 Technical Skills</h2>
 
- <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
-      (these *don’t* talk back, but they *sure* throw errors!).
-    </p>
-
+<br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
@@ -62,6 +64,7 @@
 ---
 
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🌱 Enthusiastically Exploring</h2>
+<br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
