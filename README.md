@@ -61,5 +61,5 @@ Hi, I’m **Lyse** — a **Rwandan 🇷🇼** developer who’s all about **buil
 ---
 
 <p align="center">
-  ✨ Designed with love, script, and a little bit of pink 🎨 ✨
+  ✨ Designed with love little bit of script ✨
 </p>
