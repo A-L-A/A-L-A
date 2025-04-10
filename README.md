@@ -10,7 +10,7 @@
   <div style="width: 45%; background-color: #f9f9f9; padding: 20px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); border-left: 8px solid #FF69B4;">
     <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">📚 About Me</h2>
     <p style="text-align: left; font-size: 18px; color: #333;">
-      Hi! I'm <strong>Lyse</strong> — a <strong>Rwandan 🇷🇼</strong> developer who loves combining <strong>code</strong>, <strong>culture</strong>, and <strong>creativity</strong>.
+      <strong>Muraho!</strong> I am a web developer who loves combining <strong>code</strong>, <strong>culture</strong>, and <strong>creativity</strong>.
     </p>
     <ul>
       <li>🧠 <strong>Web Development</strong> is my passion, with a focus on <strong>frontend</strong>.</li>
