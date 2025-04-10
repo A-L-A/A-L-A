@@ -23,21 +23,23 @@
 
   <!-- Second page -->
   <div style="width: 45%; background-color: #f9f9f9; padding: 20px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); border-right: 8px solid #FF69B4;">
-    <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🗣️ Languages I Speak</h2>
+    <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;"></h2>
+    <p><strong>🗣️ Languages I Speak</strong></p>
     <ul>
       <li>**English 🇬🇧**</li>
       <li>**French 🇫🇷**</li>
       <li>**Kinyarwanda 🇷🇼**</li>
     </ul>
-    <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
-      <br>- JavaScript, TypeScript, CSS/HTML, Solidity (these *don’t* talk back, but they *sure* throw errors!).
-    </p>
   </div>
 </div>
 
 ---
 
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🧰 Technical Skills</h2>
+
+ <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
+      <br>- JavaScript, TypeScript, CSS/HTML, Solidity (these *don’t* talk back, but they *sure* throw errors!).
+    </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
