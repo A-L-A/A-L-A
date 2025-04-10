@@ -1,36 +1,23 @@
 <div align="center">
   <!-- Add your banner gif here -->
-  <img src="https://www.example.com/your-banner.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
 ---
 
-### 👩🏾‍💻 About Me
+### <div style="font-family: 'Courier New', Courier, monospace; color: #FF69B4; border: 5px solid #FF69B4; padding: 10px; border-radius: 15px; text-align: center;">👩🏾‍💻 About Me</div>
 
 Hi, I’m **Lyse** — a **Rwandan 🇷🇼** developer who’s all about **building dope things** with code, culture, and creativity.
 
 - 🧠 Web development is my core — especially the frontend side of things
-- 🎨 Currently exploring design & animation (slowly but surely)
 - 🌐 Into Web3 & blockchain tech
 - ♟ Play chess casually, challenge me: [Chess.com Profile](https://www.chess.com/member/lyse-a)
 - 🍵 Tea > coffee any day, change my mind 😌
+- 🗣️ Languages I Speak: **English 🇬🇧**, **French 🇫🇷**, **Kinyarwanda 🇷🇼**
 
 ---
 
-### 🗣️ Languages I Speak... 
-
-I speak:
-- English 🇬🇧
-- French 🇫🇷
-- Kinyarwanda 🇷🇼
-
-And then I realized…  
-why not speak *even more languages* — like JavaScript, CSS, and a little Solidity 😉  
-(They don’t talk back, but they *do* throw errors.)
-
----
-
-### 💼 Technical Skills 
+### <div style="font-family: 'Courier New', Courier, monospace; color: #FF69B4; border: 5px solid #FF69B4; padding: 10px; border-radius: 15px; text-align: center;">💼 Technical Skills</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
@@ -41,8 +28,6 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="mac logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"/>
@@ -50,7 +35,7 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
 
 ---
 
-### 🌱 Enthusiastically Learning
+### <div style="font-family: 'Courier New', Courier, monospace; color: #FF69B4; border: 5px solid #FF69B4; padding: 10px; border-radius: 15px; text-align: center;">🌱 Enthusiastically Learning</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
@@ -59,17 +44,15 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
 
 ---
 
-### 🔥 GitHub Stats
+### <div style="font-family: 'Courier New', Courier, monospace; color: #FF69B4; border: 5px solid #FF69B4; padding: 10px; border-radius: 15px; text-align: center;">🔥 GitHub Stats</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-L-A&show_icons=true&theme=rose_pine&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=rose_pine)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-L-A&show_icons=true&theme=highcontrast&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=highcontrast)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=A-L-A&theme=rose_pine)
 
 ---
 
-### 💌 Let's Link Up
+### <div style="font-family: 'Courier New', Courier, monospace; color: #FF69B4; border: 5px solid #FF69B4; padding: 10px; border-radius: 15px; text-align: center;">💌 Let's Link Up</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyseaneze/)  
 [![Website](https://img.shields.io/badge/-anezelyse.com-FC4C9D?style=flat&logo=aboutdotme&logoColor=white)](https://anezelyse.com/)  
@@ -78,5 +61,5 @@ why not speak *even more languages* — like JavaScript, CSS, and a little Solid
 ---
 
 <p align="center">
-  ✨ Designed with love, script, and a little bit of pink ✨
+  ✨ Designed with love, script, and a little bit of pink 🎨 ✨
 </p>
