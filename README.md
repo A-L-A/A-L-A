@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey..+It's+Lyse%F0%9F%91%8B;I'm+a+Web+Dev" alt="Typing SVG"/>
 </div>
-
+<br><br>
 ---
 
 <!-- "About Me" Section with Book-Like Design -->
@@ -35,11 +35,17 @@
 
 ---
 
+<br>
+<br>
+
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🧰 Technical Skills</h2>
 
  <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
       (these *don’t* talk back, but they *sure* throw errors!).
     </p>
+
+    <br>
+    <br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
