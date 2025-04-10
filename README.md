@@ -3,7 +3,7 @@
 </div>
 <br>
 <br>
----
+
 
 <!-- "About Me" Section with Book-Like Design -->
 <div style="display: flex; justify-content: center; margin: 50px 0;">
@@ -89,9 +89,8 @@
 <div align="center" style="display: flex; justify-content: space-evenly; gap: 20px;">
 
   <div style="background-color: #FF69B4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-<!--     <a href="" style="color: white; font-size: 16px; text-decoration: none;">LinkedIn</a> -->
     <a href="https://www.linkedin.com/in/lyseaneze/">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </div>
   <div style="background-color: #FC4C9D; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
