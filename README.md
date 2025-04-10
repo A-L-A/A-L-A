@@ -38,7 +38,7 @@
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🧰 Technical Skills</h2>
 
  <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>:  
-      <br>- JavaScript, TypeScript, CSS/HTML, Solidity (these *don’t* talk back, but they *sure* throw errors!).
+      (these *don’t* talk back, but they *sure* throw errors!).
     </p>
 
 <div align="center">
