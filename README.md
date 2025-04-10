@@ -41,9 +41,6 @@
 
 ---
 
-<br>
-<br>
-
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">🧰 Technical Skills</h2>
 
 <br><br>
