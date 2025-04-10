@@ -1,7 +1,10 @@
-<br<
+<br>
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey..+It's+Lyse%F0%9F%91%8B;I'm+a+Web+Dev" alt="Typing SVG"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=435&lines=Code+%2B+Creativity+%2B+Afro+Vibes;Let's+build+beautiful+things!+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 <br>
 <br>
@@ -93,17 +96,12 @@
 <h2 align="center" style="color: #FF69B4; font-family: 'Roboto', sans-serif;">💌 Let's Connect</h2>
 
 <div align="center" style="display: flex; justify-content: space-evenly; gap: 20px;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/lyseaneze/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://anezelyse.com/"><img src="https://img.shields.io/badge/-anezelyse.com-FC4C9D?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+  <a href="https://www.chess.com/member/lyse-a"><img src="https://img.shields.io/badge/-Chess.com-303030?style=for-the-badge&logo=chess-dot-com&logoColor=white"/></a>
+</p>
 
-  <div style="background-color: #FF69B4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.linkedin.com/in/lyseaneze/">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  </div>
-  <div style="background-color: #FC4C9D; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <a href="https://anezelyse.com/" style="color: white; font-size: 16px; text-decoration: none;">Website</a>
-  </div>
-  <div style="background-color: #303030; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.chess.com/member/lyse-a" style="color: white; font-size: 16px; text-decoration: none;">Chess</a>
   </div>
 <br>
 <br>
@@ -112,5 +110,5 @@
 ---
 
 <p align="center">
-  ✨ Designed with love, script, and a little bit of pink ✨
+  ✨ Scripted with love & a little bit of pink ✨
 </p>
