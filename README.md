@@ -19,10 +19,9 @@
     </p>
     <ul>
       <li>🧠 <strong>Web Development</strong> is my passion, with a focus on <strong>frontend</strong>.</li>
-      <li>🎨 <strong>Design & Animation</strong> are my creative outlets.</li>
       <li>🌐 I'm diving into <strong>Web3</strong> and <strong>Blockchain</strong> technology (currently exploring <strong>Solidity</strong>).</li>
       <li>🎵 Music lover building <strong><a href="https://github.com/A-L-A/MUZIKA">MUZIKA</a></strong>, a music x tech project.</li>
-      <li>♟ Play chess casually? <a href="https://www.chess.com/member/lyse-a" target="_blank">Challenge me here!</a></li>
+      <li>♟ Play chess casually? <a href="https://www.chess.com/member/lyse-a" target="_blank">Challenge me!</a></li>
       <li>🍵 Tea > Coffee, always 🫖.</li>
     </ul>
   </div>
@@ -97,11 +96,19 @@
 
 <div align="center" style="display: flex; justify-content: space-evenly; gap: 20px;">
 <p align="center">
-  <a href="https://www.linkedin.com/in/lyseaneze/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anezelyse.com/"><img src="https://img.shields.io/badge/-anezelyse.com-FC4C9D?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-  <a href="https://www.chess.com/member/lyse-a"><img src="https://img.shields.io/badge/-Chess.com-303030?style=for-the-badge&logo=chess-dot-com&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lyseaneze/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://anezelyse.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.chess.com/member/your_chess_username" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Chess.com-%238F8F8F.svg?style=for-the-badge&logo=chess&logoColor=white" alt="Chess.com">
+  </a>
 </p>
-
   </div>
 <br>
 <br>
@@ -110,5 +117,5 @@
 ---
 
 <p align="center">
-  ✨ Scripted with love & a little bit of pink ✨
+  ✨ Scripted with love & a little bit of pink 🎨 ✨
 </p>
