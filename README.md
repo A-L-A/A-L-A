@@ -102,11 +102,8 @@
   <a href="https://anezelyse.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
   </a>
-  <a href="mailto:email@example.com">
+  <a href="lyseaaneze@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.chess.com/member/your_chess_username" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Chess.com-%238F8F8F.svg?style=for-the-badge&logo=chess&logoColor=white" alt="Chess.com">
   </a>
 </p>
   </div>
