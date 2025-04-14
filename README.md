@@ -15,10 +15,10 @@
     </p>
     <ul>
       <li>🧠 <strong>Web Development</strong> is my passion, with a focus on <strong>frontend</strong>.</li>
-      <li>🌐 I'm diving into <strong>Web3</strong> and <strong>Blockchain</strong> technology (currently exploring <strong>Solidity</strong>).</li>
+      <li>🌐 Curious about <strong>Web3</strong> and <strong>Blockchain</strong> technology.</li>
       <li>🎵 Music lover currently building <strong><a href="https://github.com/A-L-A/MUZIKA">MUZIKA</a></strong>, a music x tech project.</li>
       <li>♟ Play chess casually? <a href="https://www.chess.com/member/lyse-a" target="_blank">Challenge me!</a></li>
-      <li>🍵 Tea > Coffee, always 🫖.</li>
+      <li>🍵 Tea > Coffee.</li>
     </ul>
   </div>
 
@@ -59,30 +59,33 @@
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #5D4037; font-family: 'Roboto', sans-serif;">🔥 GitHub Stats & Streak</h2>
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-L-A&show_icons=true&theme=calm&icon_color=5D4037&title_color=5D4037&text_color=5D4037&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-L-A&show_icons=true&theme=radical&count_private=true&title_color=E3DBCC&text_color=E3DBCC&icon_color=E3DBCC" alt="GitHub Stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=calm&title_color=5D4037&text_color=5D4037" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=radical&title_color=E3DBCC&text_color=E3DBCC" alt="Top Languages"/>
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=A-L-A&theme=rose_pine&background=FFFFFF00&ring=5D4037&fire=5D4037&currStreakLabel=5D4037&sideLabels=5D4037&dates=5D4037" alt="GitHub Streak"/>
-</div>
+
 
 <!-- Let's Connect -->
 <h2 align="center" style="color: #5D4037; font-family: 'Roboto', sans-serif;">💌 Let's Connect</h2>
-<div align="center" style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <a href="https://www.linkedin.com/in/lyseaneze/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lyseaneze/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://anezelyse.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/5D4037/domain.png" height="40" alt="Website"/>
+</p>
+<p align="center">
+  <a href="https://anezelyse.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/40/5D4037/domain.png" height="35" alt="Website"/>
   </a>
-  <a href="mailto:lyseaaneze@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/5D4037/gmail-new.png" height="40" alt="Email"/>
+</p>
+<p align="center">
+  <a href="mailto:lyseaaneze@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/40/5D4037/gmail-new.png" height="35" alt="Email"/>
   </a>
-</div>
+</p>
 
 <!-- Footer -->
-<p align="center" style="color: #5D4037; font-family: 'Roboto Mono', monospace; font-size: 16px; margin-top: 40px;">
+<hr style="border: none; height: 1px; background-color: #ccc; width: 60%; margin: 40px auto;" />
+<p align="center" style="color: #5D4037; font-family: 'Roboto Mono', monospace; font-size: 16px;">
   ✨ Scripted with love & a little bit of brown ☕ ✨
 </p>
