@@ -16,7 +16,6 @@
     <ul>
       <li>🧠 <strong>Web Development</strong> is my passion, with a focus on <strong>frontend</strong>.</li>
       <li>🌐 Curious about <strong>Web3</strong> and <strong>Blockchain</strong> technology.</li>
-      <li>🎵 Music lover currently building <strong><a href="https://github.com/A-L-A/MUZIKA">MUZIKA</a></strong>, a music x tech project.</li>
       <li>♟ Play chess casually? <a href="https://www.chess.com/member/lyse-a" target="_blank">Challenge me!</a></li>
       <li>🍵 Tea > Coffee.</li>
     </ul>
