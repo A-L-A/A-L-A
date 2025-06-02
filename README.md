@@ -25,7 +25,7 @@
     <ul>
       <li><strong>English 🇬🇧</strong></li>
       <li><strong>French 🇫🇷</strong></li>
-      <li><strong>Kinyarwanda 🇷🇼</strong></li>
+      <li><strong>Ikinyarwanda 🇷🇼</strong></li>
     </ul>
     <p style="font-size: 16px; color: #333;">And the languages of <strong>code</strong>: (they don’t talk back, but they sure throw errors!)</p>
   </div>
