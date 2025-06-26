@@ -54,12 +54,12 @@
 </div>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="color: #5D4037; font-family: 'Roboto', sans-serif;">🔥 GitHub Stats & Streak</h2>
+<h2 align="center" style="color: #5D4037; font-family: 'Roboto', sans-serif;">🔥 GitHub Statsk</h2>
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=A-L-A&show_icons=true&theme=radical&count_private=true&title_color=E3DBCC&text_color=E3DBCC&icon_color=E3DBCC&cache_seconds=100" alt="GitHub Stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=radical&title_color=E3DBCC&text_color=E3DBCC&cache_seconds=1500" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-L-A&layout=compact&theme=radical&title_color=E3DBCC&text_color=E3DBCC&cache_seconds=1200" alt="Top Languages"/>
 </div>
 
 <!-- Let's Connect -->
