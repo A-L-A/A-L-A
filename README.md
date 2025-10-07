@@ -14,7 +14,7 @@
       <strong>Muraho!</strong> I'm a web developer who loves combining <strong>code</strong>, <strong>culture</strong>, and <strong>creativity</strong>.
     </p>
     <ul>
-      <li>🧠 <strong>Web Development</strong> is my passion, with a focus on <strong>frontend</strong>.</li>
+      <li>🧠 <strong>Web Development</strong> is my specialty, with a focus on <strong>frontend</strong>.</li>
       <li>🌐 Curious about <strong>Web3</strong> and <strong>Blockchain</strong> technology.</li>
       <li>♟ Play chess casually? <a href="https://www.chess.com/member/lyse-a" target="_blank">Challenge me!</a></li>
     </ul>
